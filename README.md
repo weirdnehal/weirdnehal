@@ -22,17 +22,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehal-ahmmed" alt="nehal-ahmmed" /></a> </p>
 
+
+- 📫 How to reach me **misterweird10@gmail.com**
+- 
 - 📝 I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
 - 💬 About me **I'm Nehal Ahmed. I'm fluent in English.I am highly experienced in Ethical Hacking. I have experience working on large batches of Ethical Hacking. I want to serve the world community through my skills. I am an expert in SQL Injection, Botnet, DDOS, Digital forensic, Malware analysis, Security tool Development and Penetration testing. Also have a good experience in operating system, web app, software and API security ........ Below is a brief statement about my service: - I am available 16 hours a day and will give clients a quick response. - I will provide fast delivery and high-quality work with a 100% accuracy rate. - I will provide unlimited revision without a hidden charge to till clients satisfaction. My main target is to exceed client expectations and ensure clients are 100% satisfied with my work.**
 
-- 📫 How to reach me **misterweird10@gmail.com**
+
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrdarkyt&label=Profile%20views&color=eb4d3d&style=flat-square" alt="nehal-ahmmed" /> </p>
-</i></b></h3>
- 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MrDarkYT"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MrDarkYT&theme=monokai"></a>
+
+
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
