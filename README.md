@@ -51,7 +51,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱FACEBOOK:- [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
+- 📱FACEBOOK:- [Nehal Ahmed](https://www.facebook.com/nehal.ahmed6)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -68,10 +68,12 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
  
-[![Instagram](<a href="https://www.instagram.com/nehalahmed.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40nehalahmed.10-red?style=for-the-badge&logo=instagram"></a>)
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/nehal.ahmed6)
-[![Messenger](<a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>)
-[![Github](<a href="https://github.com/nehal-ahmmed" target="_blank"><img src="https://img.shields.io/badge/Github-Nehal--Ahmmed-green?style=for-the-badge&logo=github"></a>)
+### Find Me on :
+<p align="left">
+ <a href="https://github.com/nehal-ahmmed" target="_blank"><img src="https://img.shields.io/badge/Github-Nehal--Ahmmed-green?style=for-the-badge&logo=github"></a>
+ <a href="https://www.instagram.com/nehalahmed.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40nehalahmed.10-red?style=for-the-badge&logo=instagram"></a>
+<a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+</p>
  
 ### ⚙️   Language & programming
  
