@@ -50,6 +50,8 @@ Computer security. I have experience working on large batches of Black hat Hacki
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - NAME: NEHAL AHMED
+
+<img src="https://img.shields.io/badge/Name%20:-Nehal Ahmed-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
