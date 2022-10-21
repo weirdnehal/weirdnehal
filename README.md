@@ -112,6 +112,11 @@ Computer security. I have experience working on large batches of Black hat Hacki
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal-ahmmed&" alt="nehal-ahmmed" /></p>
  
+<p align="center">
+<img src="https://img.shields.io/badge/Author-Nehal--Ahmmed-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
+</p>
 
 
 ### Find Me on :
