@@ -81,16 +81,17 @@ Computer security. I have experience working on large batches of Black hat Hacki
 <img src="https://img.shields.io/badge/HOBBY%20:-PROGRAMMING AND HACKING-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- FACEBOOK: [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- LINKEDIN: [WEIRD NEHAL](https://www.linkedin.com/in/weirdnehal/)
+
+
+<img src="https://img.shields.io/badge/FACEBOOK%20:-https://www.facebook.com/nehal.ahmed6-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- GITHUB: [WEIRD NEHAL](https://github.com/weirdnehal)
+
+<img src="https://img.shields.io/badge/LINKEDIN%20:-https://www.linkedin.com/in/weirdnehal/-cyan?style=flat-square">
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+ 
 
 <img src="https://img.shields.io/badge/GITHUB%20:-https://github.com/weirdnehal-cyan?style=flat-square">
 
