@@ -26,6 +26,7 @@
 
 
 - ⚡ Fun fact **I think i am Weird**
+- ⚡ Fun fact **I think I am romantic memer**
 
 - 📫 How to reach me **khairulalfadel@gmail.com**
 
@@ -66,19 +67,19 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱FACEBOOK:- [Nehal Ahmed](https://www.facebook.com/nehal.ahmed6)
+- 📱FACEBOOK:- [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱LINKEDIN:- [Nehal Ahmed](https://www.linkedin.com/in/weirdnehal/)
+- 📱LINKEDIN:- [WEIRD NEHAL](https://www.linkedin.com/in/weirdnehal/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻GITHUB:- [Nehal Ahmmed](https://github.com/nehal-ahmmed)
+- 💻GITHUB:- [WEIRD NEHAL](https://github.com/weirdnehal)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ⚡ Fun fact **I think I am romantic memer**
+
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
