@@ -49,39 +49,39 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 NAME:- NEHAL AHMMED
+- NAME:- NEHAL AHMMED
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🤨 HOBBY :- PROGRAMMING AND HACKING
+- HOBBY :- PROGRAMMING AND HACKING
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📕 EDUCATION:- HIDE😁
+- EDUCATION:- HIDE😁
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ❤ RELATIONSHIP:- STEEL SINGLE😍
+- ❤RELATIONSHIP:- STEEL SINGLE😍
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 👉INSLIRATION:- MYSELF
+- INSLIRATION:- MYSELF
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 🤲🏻 RELIGION:- ISLAM
+- RELIGION:- ISLAM
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱FACEBOOK:- [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
+- FACEBOOK:- [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 📱LINKEDIN:- [WEIRD NEHAL](https://www.linkedin.com/in/weirdnehal/)
+- LINKEDIN:- [WEIRD NEHAL](https://www.linkedin.com/in/weirdnehal/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 💻GITHUB:- [WEIRD NEHAL](https://github.com/weirdnehal)
+- GITHUB:- [WEIRD NEHAL](https://github.com/weirdnehal)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -124,7 +124,7 @@ Computer security. I have experience working on large batches of Black hat Hacki
 ### Find Me on :
 <p align="left">
  <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
- <a href="https://www.instagram.com/nehalahmed.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40nehalahmed.10-red?style=for-the-badge&logo=instagram"></a>
+ <a href="https://www.instagram.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/IG-%40nehalahmed.10-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
  
  
