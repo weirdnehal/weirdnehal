@@ -82,12 +82,12 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img src="https://img.shields.io/badge/GITHUB%20:-https://github.com/weirdnehal-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/PROFESSION%20:-BLACKHAT HACKER-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 
-<img src="https://img.shields.io/badge/LINKEDIN%20:-https://www.linkedin.com/in/weirdnehal/-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/BLACKHAT%20:-COMPUTER SECURITY EXPERT-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
