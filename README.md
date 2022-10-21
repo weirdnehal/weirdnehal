@@ -54,7 +54,7 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img src="https://img.shields.io/badge/OFC TEAM%20:-WEIRD 404-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/OUR TEAM%20:-WEIRD 404-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -91,6 +91,9 @@ Computer security. I have experience working on large batches of Black hat Hacki
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - GITHUB: [WEIRD NEHAL](https://github.com/weirdnehal)
+
+<img src="https://img.shields.io/badge/GITHUB%20:-[WEIRD NEHAL](https://github.com/weirdnehal)-cyan?style=flat-square">
+
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
