@@ -32,9 +32,11 @@
 
 
 - ⚡ Fun fact **I think i am Weird**
-- ⚡ Real fact **I think i am Weird**
-- ⚡ Fun fact **I think i am romantic memer**
-- ⚡ Real fact **I think i am romantic memer**
+- ⚡ Real fact **I think i am Weird🙄**
+- ⚡ Fun fact **I think i am Hacker**
+- ⚡ Real fact **I think i am Hacker🙄**
+- ⚡ Fun fact **I think i am Progrmmer**
+- ⚡ Real fact **I think i am Progrmmer🙄**
 
 - ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
