@@ -55,7 +55,7 @@ Computer security. I have experience working on large batches of Black hat Hacki
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 
-<img src="https://img.shields.io/badge/RELIGION%20:-ISLAM-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/RELIGION%20:-ISLAM-MUSLIM-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
