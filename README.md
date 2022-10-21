@@ -31,12 +31,9 @@
 
 
 
-- ⚡ Fun fact **I think i am Weird**
-- ⚡ Real fact **I think i am Weird🙄**
-- ⚡ Fun fact **I think i am Hacker**
-- ⚡ Real fact **I think i am Hacker🙄**
-- ⚡ Fun fact **I think i am Progrmmer**
-- ⚡ Real fact **I think i am Progrmmer🙄**
+- ⚡ Fun fact **I think i am Weird!**
+- ⚡ Real fact **I think i am Hacker!**
+- ⚡ Real fact **I think i am Progrmmer!**
 
 - ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
@@ -136,7 +133,7 @@ Computer security. I have experience working on large batches of Black hat Hacki
  <a href="https://www.instagram.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/IG-%40weirdnehal-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
  <a href="https://www.linkedin.com/in/weirdnehal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-weirdnehal-green?style=for-the-badge&logo=linkedin"></a>
- <a href="https://www.linkedin.com/in/weirdnehal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Weirdnehal-blue?style=for-the-badge&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/weirdnehal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Weirdnehal-darkblue?style=for-the-badge&logo=linkedin"></a>
  
 </p>
 
