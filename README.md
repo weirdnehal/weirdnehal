@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehal-ahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="nehal-ahmmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehal-ahmmed" alt="nehal-ahmmed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weirdnehal" alt="weirdnehal" /></a> </p>
 
 
 - ⚡ Fun fact **I think i am Weird**
