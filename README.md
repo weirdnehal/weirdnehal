@@ -97,14 +97,14 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img src="https://img.shields.io/badge/INSTAGRAM%20In-https://www.instagram.com/weirdnehal/-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/INSTAGRAM%20:-https://www.instagram.com/weirdnehal/-cyan?style=flat-square">
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
- 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
  
 ### ⚙️   Language & programming
