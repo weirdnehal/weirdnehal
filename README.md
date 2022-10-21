@@ -29,7 +29,8 @@
 
 - 📝 I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
-- 💬 About me **I'm Nehal Ahmed. I'm fluent in English.I am highly experienced in Ethical Hacking. I have experience working on large batches of Ethical Hacking. I want to serve the world community through my skills. I am an expert in SQL Injection, Botnet, DDOS, Digital forensic, Malware analysis, Security tool Development and Penetration testing. Also have a good experience in operating system, web app, software and API security ........ Below is a brief statement about my service: - I am available 16 hours a day and will give clients a quick response. - I will provide fast delivery and high-quality work with a 100% accuracy rate. - I will provide unlimited revision without a hidden charge to till clients satisfaction. My main target is to exceed client expectations and ensure clients are 100% satisfied with my work.**
+- 💬 About me **I am highly experienced in Black hat
+Computer security. I have experience working on large batches of Black hat Hacking. I want to serve the world community through my skills. I am an expert in SQL Injection, Botnet, DDOS, Digital forensic, Malware analysis, Security tool Development Penetration testing e.t.c.! Also have a good experience in operating system, web app, software and API security ........
 
 
  
