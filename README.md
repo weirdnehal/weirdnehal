@@ -32,12 +32,13 @@
 
 
 - ⚡ Fun fact **I think i am Weird**
-- ⚡ Fun fact **I think I am romantic memer**
+- ⚡ Real fact **I think i am Weird**
+- ⚡ Fun fact **I think i am romantic memer**
+- ⚡ Real fact **I think i am romantic memer**
 
+- ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
-- 📝 I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
-
-- About me: I am highly experienced in Black hat
+- ⚡ About me: I am highly experienced in Black hat
 Computer security. I have experience working on large batches of Black hat Hacking. I want to serve the world community through my skills. I am an expert in SQL Injection, Botnet, DDOS, Digital forensic, Malware analysis, Security tool Development Penetration testing e.t.c.! Also have a good experience in operating system, web app, software and API security ........
 
 
