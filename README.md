@@ -51,27 +51,37 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 - NAME: NEHAL AHMED
 
-<img src="https://img.shields.io/badge/Name%20:-Nehal Ahmed-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/NAME%20:-NEHAL AHMED-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - HOBBY: PROGRAMMING AND HACKING
+
+<img src="https://img.shields.io/badge/HOBBY%20:-PROGRAMMING AND HACKING-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - EDUCATION: COMPUTER SCIENCE
+
+<img src="https://img.shields.io/badge/EDUCATION%20:-COMPUTER SCIENCE-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - RELATIONSHIP: PURE SINGLE
  
+ <img src="https://img.shields.io/badge/RELATIONSHIP%20:-PURE SINGLE-cyan?style=flat-square">
+ 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - NATIONALITY: BANGLADESHI
+
+<img src="https://img.shields.io/badge/NATIONALITY%20:-BANGLADESHI-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - RELIGION: ISLAM
+
+<img src="https://img.shields.io/badge/RELIGION%20:-ISLAM-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
