@@ -49,40 +49,43 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- NAME:- NEHAL AHMMED
+- NAME: NEHAL AHMED
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- HOBBY :- PROGRAMMING AND HACKING
+- HOBBY: PROGRAMMING AND HACKING
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- EDUCATION:- HIDE😁
+- EDUCATION: COMPUTER SCIENCE
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ❤RELATIONSHIP:- STEEL SINGLE😍
+- RELATIONSHIP: PURE SINGLE
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- INSLIRATION:- MYSELF
+- NATIONALITY: BANGLADESHI
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- RELIGION:- ISLAM
+- RELIGION: ISLAM
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- FACEBOOK:- [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
+- FACEBOOK: [NEHAL AHMED](https://www.facebook.com/nehal.ahmed6)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- LINKEDIN:- [WEIRD NEHAL](https://www.linkedin.com/in/weirdnehal/)
+- LINKEDIN: [WEIRD NEHAL](https://www.linkedin.com/in/weirdnehal/)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- GITHUB:- [WEIRD NEHAL](https://github.com/weirdnehal)
+- GITHUB: [WEIRD NEHAL](https://github.com/weirdnehal)
  
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 
