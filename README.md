@@ -20,9 +20,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weirdnehal&label=Profile%20views&color=0e75b6&style=flat" alt="weirdnehal" /> </p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Written%20In-Weird-cyan?style=flat-square">
 <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
 <img src="https://img.shields.io/badge/Author-Nehal--Ahmed-cyan?style=flat-square">
+ </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weirdnehal" alt="weirdnehal" /></a> </p>
 
