@@ -25,6 +25,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weirdnehal" alt="weirdnehal" /></a> </p>
 
 <img src="https://img.shields.io/badge/Author-Nehal--Ahmmed-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
+
 - ⚡ Fun fact **I think i am Weird**
 - ⚡ Fun fact **I think I am romantic memer**
 
