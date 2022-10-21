@@ -116,11 +116,11 @@ Computer security. I have experience working on large batches of Black hat Hacki
 
 ### Find Me on :
 <p align="left">
- <a href="https://github.com/nehal-ahmmed" target="_blank"><img src="https://img.shields.io/badge/Github-Nehal--Ahmmed-green?style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
  <a href="https://www.instagram.com/nehalahmed.10" target="_blank"><img src="https://img.shields.io/badge/IG-%40nehalahmed.10-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
  
- <a href="https://linkedin.com/in/weirdnehal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weirdnehal" height="30" width="40" /></a>
+ 
 </p>
 
 
