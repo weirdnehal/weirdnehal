@@ -132,7 +132,6 @@ Computer security. I have experience working on large batches of Black hat Hacki
  <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
  <a href="https://www.instagram.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/IG-%40weirdnehal-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
- <a href="https://www.linkedin.com/in/weirdnehal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-weirdnehal-005b8e?style=for-the-badge&logo=linkedin"></a>
  <a href="https://www.linkedin.com/in/weirdnehal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Weirdnehal-005b8e?style=for-the-badge&logo=linkedin"></a>
  
 </p>
