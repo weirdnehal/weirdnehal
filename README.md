@@ -53,35 +53,31 @@ Computer security. I have experience working on large batches of Black hat Hacki
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img src="https://img.shields.io/badge/OUR TEAM%20:-CLOWNS LAUGHING AT YOU-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/OUR RELIGION%20:-PURE MUSLIM-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-<img src="https://img.shields.io/badge/RELIGION%20:-PURE MUSLIM-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/RELATIONSHIP%20:-STEEL SINGLE-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-<img src="https://img.shields.io/badge/RELATIONSHIP%20:-PURE SINGLE-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/NATIONALITY%20:-BANGLADESHI-cyan?style=flat-square">
 
+ <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+ 
+ <img src="https://img.shields.io/badge/EDUCATION%20:-COMPUTER SCIENCE-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
- 
- <img src="https://img.shields.io/badge/NATIONALITY%20:-BANGLADESHI-cyan?style=flat-square">
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-
-<img src="https://img.shields.io/badge/EDUCATION%20:-COMPUTER SCIENCE-cyan?style=flat-square">
+<img src="https://img.shields.io/badge/TEAM%20:-CLOWNS LAUGHING AT YOU!-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-
-<img src="https://img.shields.io/badge/HOBBY%20:-PROGRAMMING AND HACKING-cyan?style=flat-square">
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
 <img src="https://img.shields.io/badge/PROFESSION%20:-PROGRAMMING AND HACKING-cyan?style=flat-square">
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<img src="https://img.shields.io/badge/HOBBY%20:-LEARNED PROGRAMMING AND HACKING-cyan?style=flat-square">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
