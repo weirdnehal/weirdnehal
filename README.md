@@ -31,9 +31,9 @@
 
 
 
-- ⚡ First: **No System is Safe!**
-- ⚡ Second: **Aim for the impossible.**
-- ⚡ Third: **Have fun in cyberspace and meat space.**
+- ⚡ First - **No System is Safe!**
+- ⚡ Second - **Aim for the impossible.**
+- ⚡ Third - **Have fun in cyberspace and meat space.**
 
 - ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
