@@ -31,9 +31,9 @@
 
 
 
-- ⚡ Fun fact **I think i am Weird!**
-- ⚡ Real fact **I think i am Hacker!**
-- ⚡ Real fact **I think i am Progrmmer!**
+- ⚡ First: **No System is Safe!**
+- ⚡ Second: **Aim for the impossible.**
+- ⚡ Third: **Have fun in cyberspace and meat space.**
 
 - ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
 
