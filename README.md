@@ -25,9 +25,12 @@
 <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
 <img src="https://img.shields.io/badge/Author-Nehal--Ahmed-cyan?style=flat-square">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weirdnehal" alt="weirdnehal" /></a> </p>
 
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weirdnehal" alt="weirdnehal" /></a> </p>
+
+
 
 
 
