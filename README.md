@@ -127,7 +127,7 @@
 
 ### Find Me on :
 <p align="left">
- <a href="https://www.instagram.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/IG-weirdnehal-red?style=for-the-badge&logo=instagram"></a>
+ <a href="https://www.instagram.com/nehalahmed.10/" target="_blank"><img src="https://img.shields.io/badge/IG-weirdnehal-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://m.me/nehal.ahmed6" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
  <a href="https://www.linkedin.com/in/weirdnehal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Weirdnehal-005b8e?style=for-the-badge&logo=linkedin"></a>
 <a href="https://api.whatsapp.com/message/6JHYS4TKA4KWC1?autoload=1&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-Business-teal green, teal green dark, light green and blue?style=for-the-badge&logo=whatsapp"></a> 
