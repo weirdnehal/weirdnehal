@@ -131,7 +131,7 @@
 <a href="https://weirdnehal.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-weirdnehal-orange?style=for-the-badge&logo=blogger"></a>
 <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-White?style=for-the-badge&logo=github"></a>
  
-<a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/GitHub-weirdnehal-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/GitHub-weirdnehal-White solid?style=for-the-badge&logo=github"></a>
  
 </p>
 
