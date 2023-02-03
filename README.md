@@ -1,6 +1,6 @@
-<h3 align="center">
+
 ![watch-dogs2-dedsec](https://user-images.githubusercontent.com/107056647/216524941-d3db0012-86c9-435b-a2a2-3f5419b83592.gif)
-</h3>
+
 
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-HACKER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
