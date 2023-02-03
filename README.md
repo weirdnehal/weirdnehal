@@ -1,5 +1,5 @@
 
-![watch-dogs2-dedsec](https://user-images.githubusercontent.com/107056647/216524941-d3db0012-86c9-435b-a2a2-3f5419b83592.gif)
+
 
 
 
@@ -10,6 +10,9 @@
    &nbsp; Welcome to Weird profile &nbsp; 
   
 </h3>
+ 
+ ![watch-dogs2-dedsec](https://user-images.githubusercontent.com/107056647/216524941-d3db0012-86c9-435b-a2a2-3f5419b83592.gif)
+ 
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
