@@ -93,6 +93,9 @@
 <img src="https://img.shields.io/badge/WARNING%20:-NO SYSTEM IS SAFE!-cyan?style=flat-square">
  
  
+ 
+ ![tumblr_nzyug01FPu1uv0kouo1_400](https://user-images.githubusercontent.com/107056647/216527914-226be796-ef57-4d3e-8990-c026bf97491c.gif)
+
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
