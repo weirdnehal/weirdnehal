@@ -1,4 +1,4 @@
-https://media.tenor.com/He2W0AQvZfsAAAAM/hacked-hack.gif
+
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-HACKER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
