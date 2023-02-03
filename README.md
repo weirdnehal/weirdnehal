@@ -100,7 +100,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-### ✔   For those who hate me
+### 😦😕   For those who hate me
  ![tumblr_nzyug01FPu1uv0kouo1_400](https://user-images.githubusercontent.com/107056647/216527914-226be796-ef57-4d3e-8990-c026bf97491c.gif)
  
 ### ⚙️   Language & programming
