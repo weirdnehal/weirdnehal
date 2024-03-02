@@ -16,7 +16,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Nehal+Ahmed;+It's+Not+A+Just+Name+Bro;It's+A+BlackHat+Hacker!;Thank+You+Everyone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Khoka+Babu;+It's+Not+A+Just+Name+Bro;It's+A+BlackHat+Hacker!;Thank+You+Everyone)](https://git.io/typing-svg)
  
 </p>
  
@@ -29,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/Written%20In-Weird-eb4d3d?style=flat-square">
 <img src="https://img.shields.io/badge/Open%20Source-Yes-eb4d3d?style=flat-square">
-<img src="https://img.shields.io/badge/Author-Nehal--Ahmed-eb4d3d?style=flat-square">
+<img src="https://img.shields.io/badge/Author-Khoka--Babu-eb4d3d?style=flat-square">
 
 
 
