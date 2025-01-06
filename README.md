@@ -44,6 +44,7 @@
 - ⚡ Third - **Have fun in cyberspace and meat space.**
 
 - ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/](https://weirdnehal.blogspot.com/)
+- ⚡ I regularly write articles on [https://weirdnehal.blogspot.com/]([https://weirdnehal.blogspot.com/](http://weirdnehal.ezyro.com/)
 
 - ⚡ Hack - **Understanding hackers work requires high technical expertise; and their reasons are rarely clear. It could be economic profit, idealistic rebellion against society, egomaniac superiority or plain sadism.**
 
