@@ -1,7 +1,5 @@
 
-
-
-<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-HACKER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-HACKER AND DEVELOPER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
 <h3 align="center">
   
@@ -25,7 +23,7 @@
 
 
 <h1 align="center">Assalamu Alaikum 👋, I'm Nehal Ahmed</h1>
-<h3 align="center">Cybersecurity & OSINT Expert | Penetration Tester | Full-stack Web Developer</h3>
+<h3 align="center">Cybersecurity & OSINT Expert | Penetration Tester | Front-end Web Developer</h3>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weirdnehal&label=Profile%20views&color=0e75b6&style=flat" alt="weirdnehal" /> </p>
 
@@ -127,4 +125,3 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=weirdnehal&theme=arctic"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
