@@ -157,3 +157,23 @@
 </div>
 
 
+
+
+<div align="center">
+  <img src="https://extenly.com/api/clock?color=00E5FF&font=digital&size=40" alt="Digital Clock" />
+  <br />
+  <code>[ CURRENT_SYSTEM_TIME ]</code>
+</div>
+
+
+<div align="center">
+
+<p align="right">
+  <img src="https://img.shields.io/badge/REGION-ASIA%2FDHAKA-00E5FF?style=flat-square&logo=clock" />
+  <br>
+  <img src="https://extenly.com/api/clock?color=00E5FF&font=digital&size=30" />
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=nehal@system:~$+date;Current+Time+Synced...;Initializing+Kernel...;Access+Granted!" alt="Typing SVG" />
+
+</div>
