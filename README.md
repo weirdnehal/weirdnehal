@@ -85,3 +85,12 @@
 </div>
 
 </div>
+
+
+
+### ⏰ $ journalctl -u daily_routine.service
+
+- 🟢 **09:00 AM** : `systemctl start security-audit.target` (সার্ভার সিকিউরিটি চেক)
+- 🔵 **01:00 PM** : `npm run build:projects` (ওয়ার্ডপ্রেস এবং রিঅ্যাক্ট ডেভেলপমেন্ট)
+- 🟡 **04:00 PM** : `python3 research_exploit.py` (নতুন হ্যাকিং টেকনিক নিয়ে পড়াশোনা)
+- 🔴 **10:00 PM** : `shutdown -h now` (দিনের কাজের সমাপ্তি)
