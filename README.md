@@ -94,3 +94,66 @@
 - 🔵 **01:00 PM** : `npm run build:projects` (ওয়ার্ডপ্রেস এবং রিঅ্যাক্ট ডেভেলপমেন্ট)
 - 🟡 **04:00 PM** : `python3 research_exploit.py` (নতুন হ্যাকিং টেকনিক নিয়ে পড়াশোনা)
 - 🔴 **10:00 PM** : `shutdown -h now` (দিনের কাজের সমাপ্তি)
+
+### ⚒️ $ ls /usr/bin/security_tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+
+### 🏆 $ get --achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=weirdnehal&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=NEHAL%20AHMED&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CYBER%20SECURITY%20%26%20SYSTEM%20ANALYST&descSize=20&descAlignY=60" width="100%" />
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=nehal@system:~$+sudo+apt+update;Fetching+vulnerabilities...;Access+Level:+Root;Hack+to+Protect+the+World" />
+
+---
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=weirdnehal&theme=tokyonight&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 $ nmap -sV activity_report
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weirdnehal&theme=tokyonight&bg_color=0D1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🐍 $ snake --play
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weirdnehal/weirdnehal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weirdnehal/weirdnehal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weirdnehal/weirdnehal/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
+### 📢 $ cat system_logs.json
+
+> [!CAUTION]
+> **Warning:** Unauthorized access to this profile is logged. 
+> **Status:** Current Assignment: Security Auditing for WordPress Ecosystem.
+
+<div align="center">
+  <a href="https://wa.me/8801613016943"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:misterweird10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=weirdnehal&color=00E5FF&style=flat-square&label=INTRUSION_LOGS" />
+</div>
+
+</div>
+
+
