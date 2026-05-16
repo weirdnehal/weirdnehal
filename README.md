@@ -40,8 +40,8 @@
 - 🌱 I’m currently learning **.Net**
 - 💬 Ask me about **C, C++, Python, PHP, JavaScript, Django, Laravel**
 - 📫 How to reach me **misterweird10@gmail.com**
-- 👨‍💻 All of my projects are available at **https://weirdnehal.netlify.app/**
-- 📝 I regularly write articles on **https://weirdnehal.com/**
+- 👨‍💻 All of my projects are available at **https://weirdnehal.github.io/injection/**
+- 📝 I regularly write articles on **https://deenverse.blogspot.com/**
 - 📄 Know about my experiences **#**
 - ⚡ Fun fact **I always forget how I coded the day before**
 
